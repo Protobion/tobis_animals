@@ -1,6 +1,10 @@
-Cold and dry, but everything is my favorite color
+Cold and kjy, but everything is my favorite color
 two moons blablaba
 There might be a giant lake under the ice
 THIS IS THE END!!!
 Mars is still cold
+<<<<<<< HEAD
 Test
+=======
+but not for long........
+>>>>>>> c92bbcc59921935fee71a807bc5a57b166ad8e58
